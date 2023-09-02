@@ -10,10 +10,10 @@
 
 ## Introduction
 ExactSpace is a platform specializing in industrial analytics, offering data-driven solutions to address complex industry challenges and promote sustainable practices.
-<br><br> Visit: https://exactspace-assignment-celc.onrender.com/
+<br><br> Visit: 
 
 ## Project Demo
-https://drive.google.com/file/d/1LkwtJ07JKtd2N1tems5s4MKCp-ZGBNFA/view?usp=sharing
+
 
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript
@@ -25,7 +25,7 @@ To run the project on your local machine, follow the steps below:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/love-porwal/ExactSpace-Assignment.git
+   git clone https://github.com/love-porwal/Exact-Space-Node.git
   
 2. Install Dependencies:
 

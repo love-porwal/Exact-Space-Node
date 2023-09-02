@@ -1,4 +1,4 @@
-## ExactSpace company Assignment - JSON Format Web Application
+## Exact Space Node Assignment - JSON Format Web Application
 
 ## Table of Contents
 - [Introduction](#introduction)

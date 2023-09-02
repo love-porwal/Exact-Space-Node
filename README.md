@@ -10,7 +10,7 @@
 
 ## Introduction
 ExactSpace is a platform specializing in industrial analytics, offering data-driven solutions to address complex industry challenges and promote sustainable practices.
-<br><br> Visit: 
+<br><br> Visit: https://exact-space-node.onrender.com/
 
 ## Project Demo
 
